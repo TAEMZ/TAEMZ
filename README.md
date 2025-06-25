@@ -4,13 +4,12 @@
 
 ## 👀 Interests
 - Full-stack Web Development (React, Node.js, Firebase)
-- Mobile App Development (Flutter, React Native)
+- Mobile App Development (Flutter)
 - UI/UX Design & Responsive Interfaces
 - Open Source Collaboration & Innovation
 
 ## 🌱 Currently Exploring
 - Advanced React Patterns
-- Serverless Backend Solutions
 - Scalable Firebase Architecture
 
 ## 🤝 Open to Collaborate On
