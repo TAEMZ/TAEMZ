@@ -9,13 +9,13 @@
 - Open Source Collaboration & Innovation
 
 ## 🌱 Currently Exploring
-- Advanced React Patterns
+- Docker 
 - Scalable Firebase Architecture
 
 ## 🤝 Open to Collaborate On
-- Real-world web or mobile applications
-- University/startup tech projects
-- Community-focused platforms and tools
+- Any web or mobile applications
+- startup tech projects
+- Community focused platforms and tools
 
 ## 📫 Let’s Connect
 - **Email**: [abiykibru6@gmail.com](mailto:abiykibru6@gmail.com)
