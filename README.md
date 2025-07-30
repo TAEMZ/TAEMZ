@@ -3,7 +3,7 @@
 🎓 I hold a **BSc in Computer Science** and I’m passionate about crafting impactful digital experiences through **web** and **mobile application development**.
 
 ## 👀 Interests
-- Full-stack Web Development (React, Node.js, Firebase)
+- Full-stack Web Development (React, Node.js, Firebase,superbase,postgress,js)
 - Mobile App Development (Flutter)
 - UI/UX Design & Responsive Interfaces
 - Open Source Collaboration & Innovation
