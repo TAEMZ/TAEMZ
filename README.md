@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=TAEMZ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-🎓 I hold a **BSc in Computer Science** and I’m passionate about crafting impactful digital experiences through **web** and **mobile application development**.
+🎓 **BSc in Computer Science** graduate building full-stack web applications and cross-platform mobile apps.
 
 ---
 
